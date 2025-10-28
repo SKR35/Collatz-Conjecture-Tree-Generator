@@ -27,14 +27,12 @@ Interactive visualizer that draws thousands of Collatz trajectories as flowing p
 - Status bar: render time and current settings.
 
 ## Create the environment
-
 ~~~bash
 conda env create -f collatz-environment.yml
 conda activate collatz-tree
 ~~~
 
 ## Run the viewer
-
 ~~~bash
 python collatz_tk.py
 ~~~
