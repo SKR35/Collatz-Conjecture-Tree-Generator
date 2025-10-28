@@ -1,0 +1,10 @@
+name: collatz-tree
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pillow
+  - matplotlib
+  - tk
+  - pip
